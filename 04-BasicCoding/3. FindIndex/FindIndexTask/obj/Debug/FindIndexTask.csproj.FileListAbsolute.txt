@@ -1,0 +1,6 @@
+C:\Users\Виталий\Desktop\Basic Coding .NET\3. FindIndex\FindIndexTask\FindIndexTask\bin\Debug\FindIndexTask.dll
+C:\Users\Виталий\Desktop\Basic Coding .NET\3. FindIndex\FindIndexTask\FindIndexTask\bin\Debug\FindIndexTask.pdb
+C:\Users\Виталий\Desktop\Basic Coding .NET\3. FindIndex\FindIndexTask\FindIndexTask\obj\Debug\FindIndexTask.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\Basic Coding .NET\3. FindIndex\FindIndexTask\FindIndexTask\obj\Debug\FindIndexTask.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\Basic Coding .NET\3. FindIndex\FindIndexTask\FindIndexTask\obj\Debug\FindIndexTask.dll
+C:\Users\Виталий\Desktop\Basic Coding .NET\3. FindIndex\FindIndexTask\FindIndexTask\obj\Debug\FindIndexTask.pdb

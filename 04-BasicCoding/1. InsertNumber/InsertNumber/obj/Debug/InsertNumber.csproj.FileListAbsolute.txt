@@ -1,0 +1,6 @@
+C:\Users\Виталий\Desktop\Basic Coding .NET\1. InsertNumber\InsertNumber\InsertNumber\bin\Debug\InsertNumber.dll
+C:\Users\Виталий\Desktop\Basic Coding .NET\1. InsertNumber\InsertNumber\InsertNumber\bin\Debug\InsertNumber.pdb
+C:\Users\Виталий\Desktop\Basic Coding .NET\1. InsertNumber\InsertNumber\InsertNumber\obj\Debug\InsertNumber.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\Basic Coding .NET\1. InsertNumber\InsertNumber\InsertNumber\obj\Debug\InsertNumber.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\Basic Coding .NET\1. InsertNumber\InsertNumber\InsertNumber\obj\Debug\InsertNumber.dll
+C:\Users\Виталий\Desktop\Basic Coding .NET\1. InsertNumber\InsertNumber\InsertNumber\obj\Debug\InsertNumber.pdb

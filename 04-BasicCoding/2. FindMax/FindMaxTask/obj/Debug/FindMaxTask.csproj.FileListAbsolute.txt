@@ -1,0 +1,6 @@
+C:\Users\Виталий\Desktop\Basic Coding .NET\2. FindMax\FindMaxTask\FindMaxTask\bin\Debug\FindMaxTask.dll
+C:\Users\Виталий\Desktop\Basic Coding .NET\2. FindMax\FindMaxTask\FindMaxTask\bin\Debug\FindMaxTask.pdb
+C:\Users\Виталий\Desktop\Basic Coding .NET\2. FindMax\FindMaxTask\FindMaxTask\obj\Debug\FindMaxTask.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\Basic Coding .NET\2. FindMax\FindMaxTask\FindMaxTask\obj\Debug\FindMaxTask.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\Basic Coding .NET\2. FindMax\FindMaxTask\FindMaxTask\obj\Debug\FindMaxTask.dll
+C:\Users\Виталий\Desktop\Basic Coding .NET\2. FindMax\FindMaxTask\FindMaxTask\obj\Debug\FindMaxTask.pdb

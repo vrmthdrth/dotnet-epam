@@ -1,0 +1,6 @@
+C:\Users\Виталий\Desktop\Basic Coding .NET\4. ConcatenateStrings\ConcatenateStringsTask\ConcatenateStringsTask\bin\Debug\ConcatenateStringsTask.dll
+C:\Users\Виталий\Desktop\Basic Coding .NET\4. ConcatenateStrings\ConcatenateStringsTask\ConcatenateStringsTask\bin\Debug\ConcatenateStringsTask.pdb
+C:\Users\Виталий\Desktop\Basic Coding .NET\4. ConcatenateStrings\ConcatenateStringsTask\ConcatenateStringsTask\obj\Debug\ConcatenateStringsTask.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\Basic Coding .NET\4. ConcatenateStrings\ConcatenateStringsTask\ConcatenateStringsTask\obj\Debug\ConcatenateStringsTask.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\Basic Coding .NET\4. ConcatenateStrings\ConcatenateStringsTask\ConcatenateStringsTask\obj\Debug\ConcatenateStringsTask.dll
+C:\Users\Виталий\Desktop\Basic Coding .NET\4. ConcatenateStrings\ConcatenateStringsTask\ConcatenateStringsTask\obj\Debug\ConcatenateStringsTask.pdb
