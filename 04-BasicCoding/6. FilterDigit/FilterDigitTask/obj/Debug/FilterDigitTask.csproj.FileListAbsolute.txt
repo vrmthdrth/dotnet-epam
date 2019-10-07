@@ -1,6 +1,0 @@
-C:\Users\Виталий\Desktop\Basic Coding .NET\6. FilterDigit\FilterDigitTask\FilterDigitTask\bin\Debug\FilterDigitTask.dll
-C:\Users\Виталий\Desktop\Basic Coding .NET\6. FilterDigit\FilterDigitTask\FilterDigitTask\bin\Debug\FilterDigitTask.pdb
-C:\Users\Виталий\Desktop\Basic Coding .NET\6. FilterDigit\FilterDigitTask\FilterDigitTask\obj\Debug\FilterDigitTask.csprojAssemblyReference.cache
-C:\Users\Виталий\Desktop\Basic Coding .NET\6. FilterDigit\FilterDigitTask\FilterDigitTask\obj\Debug\FilterDigitTask.csproj.CoreCompileInputs.cache
-C:\Users\Виталий\Desktop\Basic Coding .NET\6. FilterDigit\FilterDigitTask\FilterDigitTask\obj\Debug\FilterDigitTask.dll
-C:\Users\Виталий\Desktop\Basic Coding .NET\6. FilterDigit\FilterDigitTask\FilterDigitTask\obj\Debug\FilterDigitTask.pdb

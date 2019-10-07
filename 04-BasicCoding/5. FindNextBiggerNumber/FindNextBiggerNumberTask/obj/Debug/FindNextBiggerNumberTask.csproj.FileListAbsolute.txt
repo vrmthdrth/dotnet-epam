@@ -1,6 +1,0 @@
-C:\Users\Виталий\Desktop\Basic Coding .NET\5. FindNextBiggerNumber\FindNextBiggerNumberTask\FindNextBiggerNumberTask\bin\Debug\FindNextBiggerNumberTask.dll
-C:\Users\Виталий\Desktop\Basic Coding .NET\5. FindNextBiggerNumber\FindNextBiggerNumberTask\FindNextBiggerNumberTask\bin\Debug\FindNextBiggerNumberTask.pdb
-C:\Users\Виталий\Desktop\Basic Coding .NET\5. FindNextBiggerNumber\FindNextBiggerNumberTask\FindNextBiggerNumberTask\obj\Debug\FindNextBiggerNumberTask.csprojAssemblyReference.cache
-C:\Users\Виталий\Desktop\Basic Coding .NET\5. FindNextBiggerNumber\FindNextBiggerNumberTask\FindNextBiggerNumberTask\obj\Debug\FindNextBiggerNumberTask.csproj.CoreCompileInputs.cache
-C:\Users\Виталий\Desktop\Basic Coding .NET\5. FindNextBiggerNumber\FindNextBiggerNumberTask\FindNextBiggerNumberTask\obj\Debug\FindNextBiggerNumberTask.dll
-C:\Users\Виталий\Desktop\Basic Coding .NET\5. FindNextBiggerNumber\FindNextBiggerNumberTask\FindNextBiggerNumberTask\obj\Debug\FindNextBiggerNumberTask.pdb

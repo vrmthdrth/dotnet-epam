@@ -14,9 +14,8 @@
         /// <returns>Index.</returns>
         public static int FindIndex(double[] arr)
         {
-            double rightSum = 0, leftSum = 0;
-            int indexCnt = 0;
-            int[] indexArray = new int[indexCnt];
+            decimal rightSum = 0, leftSum = 0;
+            int result = -1;
 
             if (arr.Length > 2)
             {
@@ -28,32 +27,28 @@
                     {
                         for (int j = i + 1; j < arr.Length; j++)
                         {
-                            rightSum += arr[j];
+                            rightSum += (decimal)arr[j];
                         }
 
                         for (int j = i - 1; j >= 0; j--)
                         {
-                            leftSum += arr[j];
+                            leftSum += (decimal)arr[j];
                         }
 
                         if (rightSum == leftSum)
                         {
-                            indexCnt++;
-                            Array.Resize(ref indexArray, indexCnt);
-                            indexArray[indexCnt - 1] = i;
+                            result = i;
+                            break;
                         }
                     }
                 }
             }
-
-            if (indexArray.Length != 0)
-            {
-                return indexArray[0];
-            }
             else
             {
-                return -1;
+                throw new ArgumentException();
             }
+
+            return result;
         }
     }
 }
