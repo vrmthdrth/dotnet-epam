@@ -14,11 +14,15 @@
         /// <returns>Index.</returns>
         public static int FindIndex(double[] arr)
         {
-            decimal rightSum = 0, leftSum = 0;
-            int result = -1;
-
-            if (arr.Length > 2)
+            if (arr.Length <= 2)
             {
+                return -1;
+            }
+            else
+            {
+                decimal rightSum = 0, leftSum = 0;
+                int result = -1;
+
                 for (int i = 0; i < arr.Length; i++)
                 {
                     rightSum = 0;
@@ -42,13 +46,9 @@
                         }
                     }
                 }
-            }
-            else
-            {
-                throw new ArgumentException();
-            }
 
-            return result;
+                return result;
+            }
         }
     }
 }

@@ -6,7 +6,7 @@ namespace FilterDigitTask.MSTest
     public class FilterMSTest
     {
         [TestMethod]
-        public void FilterDigitTest1()
+        public void FilterDigit_inputArray_returnsOutputArray1()
         {
 
             int[] inputArray = { 7, 1, 2, 3, 4, 5, 6, 7, 68, 69, 70, 15, 17 };
@@ -18,7 +18,7 @@ namespace FilterDigitTask.MSTest
         }
 
         [TestMethod]
-        public void FilterDigitTest2()
+        public void FilterDigit_inputArray_returnsOutputArray2()
         {
 
             int[] inputArray = { 4, 103, 2, 0, -14, 5, -30, 68, 69, 79, 15, 55 };
@@ -30,7 +30,7 @@ namespace FilterDigitTask.MSTest
         }
 
         [TestMethod]
-        public void FilterDigitTest3()
+        public void FilterDigit_inputArray_returnsOutputArray3()
         {
 
             int[] inputArray = { 1 };
@@ -40,6 +40,5 @@ namespace FilterDigitTask.MSTest
             CollectionAssert.AreEqual(new int[] { }, outputArray);
 
         }
-
     }
 }
