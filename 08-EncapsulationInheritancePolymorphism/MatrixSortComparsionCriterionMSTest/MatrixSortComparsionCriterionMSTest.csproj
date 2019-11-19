@@ -16,13 +16,4 @@
     <ProjectReference Include="..\MatrixSortComparsionCriterion\MatrixSortComparisonCriterion.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Reference Include="StyleCop.Analyzers">
-      <HintPath>..\..\06-MethodsInDetails\packages\StyleCop.Analyzers.1.1.118\analyzers\dotnet\cs\StyleCop.Analyzers.dll</HintPath>
-    </Reference>
-    <Reference Include="StyleCop.Analyzers.CodeFixes">
-      <HintPath>..\..\06-MethodsInDetails\packages\StyleCop.Analyzers.1.1.118\analyzers\dotnet\cs\StyleCop.Analyzers.CodeFixes.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>
