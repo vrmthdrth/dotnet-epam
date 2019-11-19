@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricShapes", "GeometricShapes\GeometricShapes.csproj", "{89AD4E00-FBBC-4ACF-BA41-D63EDCE69CC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithPolynomials", "WorkingWithPolynomials\WorkingWithPolynomials.csproj", "{A1C209F2-E048-4AA5-BFE6-8814391002FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixSortComparisonCriterion", "MatrixSortComparsionCriterion\MatrixSortComparisonCriterion.csproj", "{0EBA787A-3217-4454-B9A1-0B878F1A6980}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixSortComparsionCriterionMSTest", "MatrixSortComparsionCriterionMSTest\MatrixSortComparsionCriterionMSTest.csproj", "{7E69CC8D-5F91-425B-A0C3-DC5308DC88D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithPolynomialsNUnitTest", "WorkingWithPolynomialsNUnitTest\WorkingWithPolynomialsNUnitTest.csproj", "{953C2463-592F-4C30-B106-52373495644B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89AD4E00-FBBC-4ACF-BA41-D63EDCE69CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89AD4E00-FBBC-4ACF-BA41-D63EDCE69CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89AD4E00-FBBC-4ACF-BA41-D63EDCE69CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89AD4E00-FBBC-4ACF-BA41-D63EDCE69CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C209F2-E048-4AA5-BFE6-8814391002FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C209F2-E048-4AA5-BFE6-8814391002FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C209F2-E048-4AA5-BFE6-8814391002FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C209F2-E048-4AA5-BFE6-8814391002FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EBA787A-3217-4454-B9A1-0B878F1A6980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EBA787A-3217-4454-B9A1-0B878F1A6980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EBA787A-3217-4454-B9A1-0B878F1A6980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EBA787A-3217-4454-B9A1-0B878F1A6980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E69CC8D-5F91-425B-A0C3-DC5308DC88D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E69CC8D-5F91-425B-A0C3-DC5308DC88D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E69CC8D-5F91-425B-A0C3-DC5308DC88D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E69CC8D-5F91-425B-A0C3-DC5308DC88D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953C2463-592F-4C30-B106-52373495644B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953C2463-592F-4C30-B106-52373495644B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953C2463-592F-4C30-B106-52373495644B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953C2463-592F-4C30-B106-52373495644B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7328750-B729-4E05-9371-5EB2BCE0499A}
+	EndGlobalSection
+EndGlobal
