@@ -2,6 +2,3 @@ bin
 obj
 packages
 .vs
-Properties
-*.csproj
-*.config
