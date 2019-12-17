@@ -16,6 +16,8 @@
             NumberFormatInfo formatInfo = (NumberFormatInfo)CultureInfo.CurrentCulture.NumberFormat.Clone();
             formatInfo.CurrencyDecimalSeparator = ".";
             formatInfo.CurrencyDecimalDigits = 2;
+            formatInfo.CurrencyPositivePattern = 0;
+            formatInfo.CurrencyNegativePattern = 0;
             formatInfo.CurrencySymbol = string.Empty;
             formatInfo.CurrencyGroupSeparator = ",";
             return formatInfo;
