@@ -185,7 +185,7 @@
                     tens = 0;
                 }
 
-                result += (char)(units + '0');
+                result += (char)(units  + '0');
             }
 
             char[] resultNumberChars = result.ToCharArray();
