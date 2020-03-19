@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{05CFB38F-5647-4444-9775-C75F61F757C6}</ProjectGuid>
+    <ProjectGuid>{5A03E8A8-6951-4659-8671-5B4A70F4286E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GCDDelegates</RootNamespace>
-    <AssemblyName>GCDDelegates</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <RootNamespace>CountdownTask</RootNamespace>
+    <AssemblyName>CountdownTask</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -42,8 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GCDDelegates.cs" />
+    <Compile Include="CountdownTimer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TimeIsOverEventArgs.cs" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="StyleCop.Analyzers">
